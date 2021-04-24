@@ -7,3 +7,4 @@ and give a name and click create
 And cloned this repostry by clicking  on Set up in Destkop and (optionally select the location) click on clone 
 
 It cloned our remote  repo to local so we can start working locally
+
