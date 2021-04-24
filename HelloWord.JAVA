@@ -1,1 +1,7 @@
-public class HelloWord.java
+public class HelloWord {
+
+public static void main (String [] args) {
+	
+}
+
+}
